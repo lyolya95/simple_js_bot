@@ -1,0 +1,17 @@
+{
+  "name": "javascript-bot",
+  "version": "1.0.0",
+  "description": "bot for telegram",
+  "main": "index.js",
+  "scripts": {
+    "dev": "../node_modules/.bin/nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "olga_bugrova",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "0.56.0",
+    "nodemon": "^2.0.15"
+  }
+}
