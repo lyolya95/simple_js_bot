@@ -6,6 +6,7 @@
 npm install
 </code>
 
+---
 Create const token to api/token.js before starting work
 
 ---
@@ -14,4 +15,5 @@ Create const token to api/token.js before starting work
 npm run dev
 </code>
 
+---
 ^-^ 
