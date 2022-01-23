@@ -1,4 +1,4 @@
-# Простая реализация телеграмм бота на javascript
+# Простая реализация телеграм бота на javascript
 
 ---
 ### Install Dependencies
