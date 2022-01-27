@@ -7,7 +7,7 @@ npm install
 </code>
 
 ---
-Create const token to api/token.js before starting work
+Create const token to api/token.js before start working
 
 ---
 ### Run Application
